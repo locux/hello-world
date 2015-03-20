@@ -15,7 +15,8 @@
 <?php
 
 if (1 == 1) {
-	// do nothing =)
+	// do something!
+	echo "now we're doing something!!!";
 }
 
 ?>
