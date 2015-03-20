@@ -17,6 +17,7 @@
 if (1 == 1) {
 	// do something!
 	echo "now we're doing something!!!";
+	echo "\n and more!";
 }
 
 ?>
